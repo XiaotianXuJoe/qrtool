@@ -1,0 +1,23 @@
+data.db
+static/uploads/
+__pycache__/
+*.pyc
+
+# GitHub migration: secrets and production-only state
+.env
+.env.*
+!.env.example
+*.env
+*.log
+*.pid
+*.db
+*.sqlite
+*.sqlite3
+*.sqlite-*
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+
+data.db
+static/uploads/

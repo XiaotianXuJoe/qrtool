@@ -1,0 +1,4 @@
+flask
+qrcode[pil]
+requests
+opencv-python-headless
